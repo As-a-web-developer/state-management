@@ -8,3 +8,5 @@ const Movie = ({name, price}) => {
         </div>
     );
 };
+
+export default Movie;
