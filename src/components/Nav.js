@@ -9,6 +9,6 @@ const Nav = () => {
             <p>List of Movies: {movies.length}</p>
         </nav>
     )
-}
+}  
 
 export default Nav;
