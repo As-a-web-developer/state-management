@@ -7,7 +7,7 @@ const Nav = () => {
         <nav>
             <h3>Maxstack</h3>
             <p>List of Movies: {movies.length}</p>
-        </nav>
+        </nav>   
     )
 }  
 
