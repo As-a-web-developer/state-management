@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import Movie from './Movie';
+import Movie from './Movie'; 
 import {MovieContext} from './MovieContext';
 
 const MovieList = () => {
@@ -15,5 +15,6 @@ const MovieList = () => {
         </div>
     );
 };
+
 
 export default MovieList;
